@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tok-Jad
-- 👀 I’m interested in ... Not Working
+- 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ... Don't
+- 💞️ I’m looking to collaborate on ... Something
+- 📫 How to reach me ... Discord
 
 <!---
 Tok-Jad/Tok-Jad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
